@@ -37,7 +37,7 @@ The program accepts the following command line arguments:
 
 # How to Run
 
-    Compile the code using a C# compiler (e.g., csc Project1.cs).
+    Compile the code using a C# compiler (e.g., csc directory_stats_calculator.cs).
     Run the compiled executable with the appropriate command line arguments.
 
 # Notes
